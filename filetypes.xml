@@ -1,9 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <removed_mapping ext="js" type="JavaScript" />
       <mapping pattern="ArmSessionNotification.js" type="PLAIN_TEXT" />
       <mapping pattern="WhyEpayblock.js" type="PLAIN_TEXT" />
       <mapping pattern=".zshrc" type="PLAIN_TEXT" />
+      <mapping ext="js" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
