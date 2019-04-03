@@ -5,6 +5,7 @@
       <mapping pattern="WhyEpayblock.js" type="PLAIN_TEXT" />
       <mapping pattern=".zshrc" type="PLAIN_TEXT" />
       <mapping pattern="ArmSessionNotification.js" type="PLAIN_TEXT" />
+      <mapping ext="local" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
